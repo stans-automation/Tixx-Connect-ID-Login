@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Weiter",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "Wfdc1HHOyUChaoHn9CcM6A",
+  "Reference": "fqwcjRRpM06YPhN9lehRnA/Wfdc1HHOyUChaoHn9CcM6A",
+  "ParentRef": "fqwcjRRpM06YPhN9lehRnA/3LUMnunkCEKw3g0cH6zk0A",
+  "Created": "2026-10-14T07:31:16.3522881Z",
+  "Updated": "2026-10-14T07:31:16.3522881Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

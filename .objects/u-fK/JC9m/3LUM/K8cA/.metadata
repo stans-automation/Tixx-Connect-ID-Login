@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Mit Connect-ID einloggen",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "K8cAKUJFV0avYxHHMduiqA",
+  "Reference": "fqwcjRRpM06YPhN9lehRnA/K8cAKUJFV0avYxHHMduiqA",
+  "ParentRef": "fqwcjRRpM06YPhN9lehRnA/3LUMnunkCEKw3g0cH6zk0A",
+  "Created": "2026-10-14T07:15:18.1119651Z",
+  "Updated": "2026-10-14T07:15:18.1119651Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

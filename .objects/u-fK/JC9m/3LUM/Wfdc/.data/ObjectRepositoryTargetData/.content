@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="evHN0cDLd0mUAkIA9a81Vg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="public-api.eventim.com/identity/auth/realms/platform-ch/protocol/openid-connect/auth" DesignTimeRectangle="188, 650, 416, 40" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='kc-login' tag='INPUT' /&gt;" Guid="908c529d-72db-4a86-81c2-3baf9e0022f8" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Connect-ID' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b7b1884298b4a98e7da3efdd3b7fdd7f.jpg" xmlns="">0g_-MqJIPOEy2ov0sT_6ycA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
