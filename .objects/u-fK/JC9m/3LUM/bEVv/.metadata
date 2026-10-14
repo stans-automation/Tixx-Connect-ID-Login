@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Single Sign-On Plattfor…",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "bEVvEmmtdk29od6CSjlDOA",
+  "Reference": "fqwcjRRpM06YPhN9lehRnA/bEVvEmmtdk29od6CSjlDOA",
+  "ParentRef": "fqwcjRRpM06YPhN9lehRnA/3LUMnunkCEKw3g0cH6zk0A",
+  "Created": "2026-10-14T06:55:47.9150955Z",
+  "Updated": "2026-10-14T06:55:47.9150955Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

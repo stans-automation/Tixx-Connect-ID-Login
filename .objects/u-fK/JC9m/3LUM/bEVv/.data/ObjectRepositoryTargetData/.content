@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7F9pTjKPUkGThBBYhkrc9g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="backoffice.eventim-tixx.com/login" DesignTimeRectangle="82, 382, 358, 48" ElementType="DropDown" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='eds-select-v-0' tag='DIV' /&gt;" Guid="920f52da-9d01-4490-87cb-f476ba5cdc1a" ScopeSelectorArgument="&lt;html app='msedge.exe' title='EVENTIM.Tixx | Backoffice' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9bb75879a84b03c5039c734603b17f3b.jpg" xmlns="">0k7u1gJRYr0ilSVWj06xEiA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

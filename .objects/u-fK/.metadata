@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge EVENTIM.Tixx  Backoffice",
+  "Type": "App",
+  "Id": "u-fKMjJoSU2YvYzmls8UIA",
+  "Reference": "fqwcjRRpM06YPhN9lehRnA/u-fKMjJoSU2YvYzmls8UIA",
+  "Created": "2026-10-14T06:55:15.6950021Z",
+  "Updated": "2026-10-14T06:55:15.6950021Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

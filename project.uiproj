@@ -1,0 +1,6 @@
+{
+  "Name": "Connect ID Login Tixx",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge EVENTIM.Tixx  Backoffice",
+  "Type": "Screen",
+  "Id": "3LUMnunkCEKw3g0cH6zk0A",
+  "Reference": "fqwcjRRpM06YPhN9lehRnA/3LUMnunkCEKw3g0cH6zk0A",
+  "ParentRef": "fqwcjRRpM06YPhN9lehRnA/JC9mMIjuIkqgSmAuthf9jg",
+  "Created": "2026-10-14T06:55:15.8843922Z",
+  "Updated": "2026-10-14T06:55:15.8843922Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
