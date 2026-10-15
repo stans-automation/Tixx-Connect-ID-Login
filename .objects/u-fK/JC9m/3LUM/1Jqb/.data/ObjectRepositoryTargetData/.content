@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rwWxCHmghky9NiwCie8dxg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="public-api.eventim.com/identity/auth/realms/platform-ch/protocol/openid-connect/auth" DesignTimeRectangle="188, 570, 416, 48" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='username' tag='INPUT' type='email' class='ev-input-field peer ' aaname='Deine Connect-ID E-Mail-Adresse' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="2ab19e72-d333-4eea-b3c9-cd82e932e777" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Connect-ID' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="188, 560, 416, 67" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='ev-input-label before:content[&amp;apos; &amp;apos;] after:content[&amp;apos; &amp;apos;] ' aaname='Deine Connect-ID E-Mail-Adresse' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Deine Connect-ID E-Mail-Adresse' /&gt;" Guid="b80f48a7-c694-4057-b007-2ba334582699" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5da7ba5f11bc324b6e9bd9cd08971bd6.jpg" xmlns="">0m0OS9AN0qEqtls1cKci_Yw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

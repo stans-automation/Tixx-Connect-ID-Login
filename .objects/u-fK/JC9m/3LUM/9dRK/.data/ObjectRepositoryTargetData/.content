@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="20lchVeVwEuSfZ7Vb319Hw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="public-api.eventim.com/identity/auth/realms/platform-ch/protocol/openid-connect/auth" DesignTimeRectangle="188, 570, 416, 48" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='username' tag='INPUT' type='email' class='ev-input-field peer ' aaname='Deine Connect-ID E-Mail-Adresse' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="584191da-8f9b-46c3-b4db-312e2f93802f" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Connect-ID' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="fd143aea-f505-484c-b731-da41ebe24f92" CvElementArea="186, 569, 418, 50" CvType="InputBox" DesignTimeRectangle="186, 569, 419, 51" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='username' tag='INPUT' type='email' class='ev-input-field peer ' aaname='Deine Connect-ID E-Mail-Adresse' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="f02c2b47-f735-46a8-98d4-b804100eee7c" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="973374b37f99b65c0c26d9e5eb4a664f.jpg" xmlns="">0VDT8V523DUOHqR_Gje06gg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

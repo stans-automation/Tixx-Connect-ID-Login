@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Deine Connect-ID E-Mail…(1)",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "l_5AenlJMkyHmuAdSdaJgQ",
+  "Reference": "fqwcjRRpM06YPhN9lehRnA/l_5AenlJMkyHmuAdSdaJgQ",
+  "ParentRef": "fqwcjRRpM06YPhN9lehRnA/3LUMnunkCEKw3g0cH6zk0A",
+  "Created": "2026-10-14T11:31:35.7272313Z",
+  "Updated": "2026-10-14T11:31:35.7272313Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

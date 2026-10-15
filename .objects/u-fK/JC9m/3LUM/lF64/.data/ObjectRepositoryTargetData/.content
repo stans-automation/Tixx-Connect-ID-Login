@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jAe9_s4uckiCcit6nfwjnQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="backoffice.eventim-tixx.com/login" DesignTimeRectangle="82, 449, 358, 40" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='login-sso-button' tag='BUTTON' /&gt;" Guid="11a5732f-afe8-4d09-a06e-653a569c86de" ScopeSelectorArgument="&lt;html app='msedge.exe' title='EVENTIM.Tixx | Backoffice' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="71046c30679516f0e016f9cf92aeb129.jpg" xmlns="">0r_BXYnkdYUSK_alJ5oiYTw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
