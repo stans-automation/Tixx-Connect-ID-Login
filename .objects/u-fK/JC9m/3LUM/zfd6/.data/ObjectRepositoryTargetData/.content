@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5o4VJwAe40qYNdU6tVQnuA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="public-api.eventim.com/identity/auth/realms/platform-ch/login-actions/authenticate" DesignTimeRectangle="188, 543, 369, 36" ElementType="InputBoxPassword" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='password' tag='INPUT' type='password' class='pf-c-form-control' aaname='Passwort' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="82df581c-723b-4920-9d6a-68d8c7d1774a" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Connect-ID' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="188, 523, 51, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Passwort' tag='LABEL' type='' class='pf-c-form__label pf-c-form__label-text' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Passwort' /&gt;" Guid="5e1bf8d8-47b2-482b-b5b6-1f2dc8c952b8" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ce9347efc3bf4538c06fe1b982323a3b.jpg" xmlns="">0GaSMshS2dk2nhyyhUesy7A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
