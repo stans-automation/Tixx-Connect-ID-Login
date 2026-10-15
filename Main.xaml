@@ -198,6 +198,6 @@
     </uix:NApplicationCard>
     <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="452,175" sap2010:WorkflowViewState.IdRef="LogMessage_3" Level="Info" Message="[&quot;Job successfully done&quot;]" />
     <Delay Duration="00:00:10" sap:VirtualizedContainerService.HintSize="452,123" sap2010:WorkflowViewState.IdRef="Delay_4" />
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="452,166" sap2010:WorkflowViewState.IdRef="LogMessage_4" Level="Trace" Message="[&quot;This is an update, I have made will it show?&quot;]" />
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="452,166" sap2010:WorkflowViewState.IdRef="LogMessage_4" Level="Info" Message="[&quot;This is an update, I have made will it show?&quot;]" />
   </Sequence>
 </Activity>
